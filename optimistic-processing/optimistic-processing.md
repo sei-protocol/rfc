@@ -112,3 +112,7 @@ states to the main store. If not, `FinalizeBlock` would just process the block b
 
 - [Tendermint ABCI++](https://docs.tendermint.com/master/spec/abci++/abci++_methods.html#new-methods-introduced-in-abci)
 - [ABCI++ Timeline](https://blog.cosmos.network/the-tendermint-council-and-the-path-to-delivering-abci-d6deb9e0fc7f)
+
+# Community Discussion
+
+- [Github Discussions for this RFC](https://github.com/sei-protocol/rfc/discussions/1)
